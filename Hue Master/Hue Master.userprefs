@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/shaders/UnitWithShadows.shader">
+    <Files>
+      <File FileName="Assets/scripts/TextureTransition.cs" Line="10" Column="26" />
+      <File FileName="Assets/shaders/TextureTransition.shader" Line="1" Column="1" />
+      <File FileName="Assets/scripts/AppController.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/Butterfly.cs" Line="53" Column="1" />
+      <File FileName="Assets/scripts/CameraLookAt.cs" Line="14" Column="29" />
+      <File FileName="Assets/shaders/UnitWithShadows.shader" Line="38" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

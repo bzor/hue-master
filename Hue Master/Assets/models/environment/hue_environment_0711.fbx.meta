@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: df40ae3b539b74c70ae4e1bdfe98961d
+timeCreated: 1468260020
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: books
+    100002: cam
+    100004: cam2
+    100006: Cameras_group
+    100008: ceiling
+    100010: Character_Character
+    100012: clock_body
+    100014: clock_glass
+    100016: cluster1Handle
+    100018: cluster2Handle
+    100020: directionalLight1
+    100022: directionalLight2
+    100024: directionalLight3
+    100026: directionalLight4
+    100028: floortiles1
+    100030: //RootNode
+    100032: Lights_group
+    100034: Mesh
+    100036: planks
+    100038: stool
+    100040: table
+    100042: walls
+    100044: window_01
+    400000: books
+    400002: cam
+    400004: cam2
+    400006: Cameras_group
+    400008: ceiling
+    400010: Character_Character
+    400012: clock_body
+    400014: clock_glass
+    400016: cluster1Handle
+    400018: cluster2Handle
+    400020: directionalLight1
+    400022: directionalLight2
+    400024: directionalLight3
+    400026: directionalLight4
+    400028: floortiles1
+    400030: //RootNode
+    400032: Lights_group
+    400034: Mesh
+    400036: planks
+    400038: stool
+    400040: table
+    400042: walls
+    400044: window_01
+    2300000: ceiling
+    2300002: Character_Character
+    2300004: clock_body
+    2300006: clock_glass
+    2300008: floortiles1
+    2300010: Mesh
+    2300012: planks
+    2300014: stool
+    2300016: table
+    2300018: walls
+    2300020: window_01
+    3300000: ceiling
+    3300002: Character_Character
+    3300004: clock_body
+    3300006: clock_glass
+    3300008: floortiles1
+    3300010: Mesh
+    3300012: planks
+    3300014: stool
+    3300016: table
+    3300018: walls
+    3300020: window_01
+    4300000: Mesh
+    4300002: Character_Character
+    4300004: planks
+    4300006: walls
+    4300008: floortiles1
+    4300010: window_01
+    4300012: table
+    4300014: ceiling
+    4300016: clock_body
+    4300018: clock_glass
+    4300020: stool
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

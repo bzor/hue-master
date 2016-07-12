@@ -1,2 +1,0 @@
-# hue-master
-Hue Master
